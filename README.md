@@ -1,5 +1,5 @@
-# project-codestyle
+# style configurations
 
-The codestyle I use for my projects.
+The style configurations I use for my projects.
 
-You're welcome to import it to your IDE or share suggestions to improve it.
+You're welcome to import it or share suggestions to improve it.
